@@ -99,6 +99,7 @@ Developed an interactive dashboard with:
 ---
 
 ## 📂 Project Structure
+
 Customer-Shopping-Behavior-Analysis/
 │
 ├── 📁 docs/
