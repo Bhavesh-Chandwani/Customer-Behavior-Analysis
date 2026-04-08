@@ -6,7 +6,7 @@ A retail company wants to understand customer shopping behavior to improve sales
 The key objective:
 > How can customer data be leveraged to identify trends, improve engagement, and optimize marketing strategies?
 
-📄 Detailed Problem Statement: [Business Problem Document](./docs/Business_Problem.pdf)
+📄 Detailed Problem Statement: [Business Problem Document](https://github.com/Bhavesh-Chandwani/Customer-Behavior-Analysis/blob/main/Business%20Problem%20%20Document.pdf)
 
 ---
 
