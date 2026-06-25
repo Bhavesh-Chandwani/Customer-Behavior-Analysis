@@ -62,8 +62,8 @@ Performed business-driven analysis:
 - Revenue by age group
 
 📌 Example Insight:
-- Male customers generated higher revenue than female customers :contentReference[oaicite:0]{index=0}  
-- Express shipping users spend slightly more on average :contentReference[oaicite:1]{index=1}  
+- Male customers generated higher revenue than female customers.  
+- Express shipping users spend slightly more on average.
 
 ---
 
@@ -76,7 +76,7 @@ Developed an interactive dashboard with:
 
 📊 Dashboard highlights (Page 7):
 - Total Customers: ~3.9K  
-- Avg Purchase: ~$59.76 :contentReference[oaicite:2]{index=2}  
+- Avg Purchase: ~$59.76  
 
 ---
 
